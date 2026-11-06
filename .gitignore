@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+ledger.jsonl
+actlog*.jsonl
+profile.local.md
+actions.jsonl
+learnings.jsonl
+runs.jsonl
